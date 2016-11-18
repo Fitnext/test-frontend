@@ -2,8 +2,8 @@
 
 Ce projet git contient 2 exercices que vous allez retrouver dans les 2 sous-répertoire :
 
-* [Exercice 1](Exercice 1/README.md)
-* [Exercice 2](Exercice 2/README.md)
+* [Exercice 1](Exercice 1/)
+* [Exercice 2](Exercice 2/)
 
 L'énoncé de chaque exercice est rédigé dans le fichier `README.md`.
 
