@@ -8,3 +8,4 @@ Un export complet et calcque par calque en jpg/png est disponible si vous n'avez
 ## Consignes
 
 * vous pouvez utiliser bootstrap comme base pour votre intégration
+* vous devez rendre un fichier `index.html` qui contiendra votre intégration responsive
